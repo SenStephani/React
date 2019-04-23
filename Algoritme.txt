@@ -1,6 +1,10 @@
 Algoritme
 1. npx create-react-app react-app (Seppe)
 2. react-app pushen (Seppe)
+    2.1 iedereen pullen
+    2.2 in cmd: cd react-app
+                npm start
+    2.3 nu code kunnen schrijven
 3. functie f(x,y) => { return (x + y) } maken
 4. input pagina maken
 5. input linken aan functie
