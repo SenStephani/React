@@ -1,0 +1,7 @@
+Algoritme
+1. npx create-react-app react-app (Seppe)
+2. react-app pushen (Seppe)
+3. functie f(x,y) => { return (x + y) } maken
+4. input pagina maken
+5. input linken aan functie
+6. output tonen
